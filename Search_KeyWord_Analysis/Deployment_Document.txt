@@ -1,0 +1,19 @@
+### Creating python3 env ###
+ mkdir python3
+ cd python3/
+ pwd
+ sudo apt-get install python3-venv
+ python3 -m venv /home/moglix/python3
+ source /home/moglix/python3/bin/activate
+ pip --version
+ pip3 install --upgrade pip
+ pip --version
+ pip3 install jupyter
+ #jupyter notebook
+
+sudo apt-get install python-pip python-dev libmysqlclient-dev
+sudo pip install MySQL-python
+pip search mysql-connector | grep --color mysql-connector-python
+sudo pip install configparser
+sudo pip install -U selenium
+sudo pip install xlrd
