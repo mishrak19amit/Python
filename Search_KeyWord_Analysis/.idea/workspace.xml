@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9c34a9b-e492-458d-bf95-2401622d2e68" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../UPSC_Result/Predict_UPSC_Rank.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../UPSC_Result/Predict_UPSC_Rank.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UPSC_Result/UPSC_Result_Analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../UPSC_Result/UPSC_Result_Analysis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../route-optimizer-machine-learning" beforeDir="false" afterPath="$PROJECT_DIR$/../route-optimizer-machine-learning" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,10 +27,21 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Search_KeyWord_Analysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Search_KeyWord_Analysis" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
@@ -61,7 +71,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
+    <frame x="64" y="-4" width="1303" height="773" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49925262" visible="true" weight="0.24960877" />
       <window_info id="Structure" order="1" sideWeight="0.5007474" side_tool="true" weight="0.24960877" />
